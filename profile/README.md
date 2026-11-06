@@ -22,8 +22,8 @@ production, what is ready and waiting for release, and what is still being built
 | Project | What it is | Stack |
 |---|---|---|
 | [**Kamo**](https://github.com/domingos-engineering/kamo-showcase) | Our own multi-tenant SaaS. An AI agent answers car dealerships' WhatsApp, collects financing details and hands qualified leads to salespeople. 30,772 messages and 1,602 customers between May and August 2026. | FastAPI · Redis Streams · Supabase · Next.js |
-| [**4Life Nutrition — store**](https://github.com/Dowgg18/4life-nutrition-showcase) | Custom e-commerce for a Brazilian supplement brand. Payment, tax invoice, shipping label and customer alerts run without manual steps; recurring subscriptions on top. | Next.js · Medusa v2 · PostgreSQL |
-| [**4Life — Creator Army**](https://github.com/Dowgg18/4life-creators-showcase) | Influencer program on its own platform: application queue, per-creator coupons, product campaigns and an idempotent commission sweep. | Next.js · PostgreSQL · Medusa Admin API |
+| [**4Life Nutrition — store**](https://github.com/domingos-engineering/4life-nutrition-showcase) | Custom e-commerce for a Brazilian supplement brand. Payment, tax invoice, shipping label and customer alerts run without manual steps; recurring subscriptions on top. | Next.js · Medusa v2 · PostgreSQL |
+| [**4Life — Creator Army**](https://github.com/domingos-engineering/4life-creators-showcase) | Influencer program on its own platform: application queue, per-creator coupons, product campaigns and an idempotent commission sweep. | Next.js · PostgreSQL · Medusa Admin API |
 | [**Brazil–Russia Chamber of Commerce**](https://github.com/Dowgg18/camara-brasil-russia-showcase) | Institutional portal in Portuguese, Russian and English. Editors paste raw text and get a translated, SEO-ready article for review. | Next.js · Supabase |
 
 Client code stays with the client. These repositories are case studies: screens,
