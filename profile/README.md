@@ -40,6 +40,11 @@ agents that talk to customers in production.
       <a href="https://github.com/Dowgg18/camara-brasil-russia-showcase"><img src="https://raw.githubusercontent.com/domingos-engineering/.github/main/profile/assets/case-camara.png" alt="Brazil–Russia Chamber — institutional portal in Portuguese, Russian and English" width="100%" /></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/domingos-engineering/meidaleh-showcase"><img src="https://raw.githubusercontent.com/domingos-engineering/.github/main/profile/assets/case-meidaleh.png" alt="MeidaLeh — a book creator's media kit that prices itself, plus a mug store with Mercado Pago" width="100%" /></a>
+    </td>
+  </tr>
 </table>
 
 <sub>Client code stays with the client. Each case study shows screens, architecture and
